@@ -247,7 +247,7 @@
     "min_skills" : [ [ "gun", 3 ], [ "mechanics", 2 ] ],
     "install_time" : 60000,
     "dispersion_modifier": 15,
-    "ammo_modifier": "357",
+    "ammo_modifier": "357_mag",
     "flags" : [ "INSTALL_DIFFICULT", "IRREMOVABLE" ]
   },  
   {
