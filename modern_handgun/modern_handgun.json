@@ -10,8 +10,7 @@
     "range": 1,
     "ranged_damage": 1,	
     "relative": {
-      "dispersion": -90,
-      "recoil": 75
+      "dispersion": -90
     },
     "durability": 8,
     "magazines": [
@@ -33,8 +32,7 @@
     "ammo": "9x18",
     "ranged_damage": -1,
     "dispersion": 225,
-    "sight_dispersion": 90,	
-    "recoil": 50,
+    "sight_dispersion": 90,
     "durability": 6,
     "burst": 3,	
     "default_mods": [ "suppressor_compact" ],
@@ -58,7 +56,6 @@
     "ammo": "9mm",
     "dispersion": 90,
     "sight_dispersion": 90,
-    "recoil": 60,
     "durability": 7,
     "magazine_well": 1,
     "magazines": [
@@ -83,7 +80,6 @@
     "ranged_damage": -1,
     "dispersion": 200,
     "sight_dispersion": 90,
-    "recoil": 100,
     "durability": 8,
     "magazine_well": 1,
     "magazines": [
@@ -110,7 +106,6 @@
     "ranged_damage": 1,
     "dispersion": 225,
     "sight_dispersion": 90,	
-    "recoil": 100,
     "durability": 6,
     "burst": 3,	
     "magazine_well": 1,	
@@ -135,7 +130,6 @@
     "ranged_damage": 1,
     "dispersion": 150,
     "sight_dispersion": 90,	
-    "recoil": 120,
     "durability": 8,	
     "magazine_well": 1,	
     "magazines": [
@@ -153,8 +147,7 @@
     "price": 155000,
     "material": [ "steel", "wood" ],	
     "relative": {
-      "dispersion": -30,
-      "recoil": -50
+      "dispersion": -30
     },
     "magazines": [
       [ "45", [ "m1911mag", "m1911bigmag" ] ]
@@ -176,7 +169,6 @@
     "ranged_damage": 2,
     "dispersion": 30,
     "sight_dispersion": 60,	
-    "recoil": 0,
     "durability": 9,	
     "magazine_well": 1,	
     "magazines": [
@@ -200,7 +192,6 @@
     "ranged_damage": 1,
     "dispersion": 110,
     "sight_dispersion": 90,	
-    "recoil": 80,
     "durability": 8,	
     "magazine_well": 1,	
     "magazines": [
@@ -216,7 +207,6 @@
     "description": "The Heckler & Koch 45 Compact Tactical is a double-action pistol, short-recoil operated, using modified Browning-type locking system and tilting barrel.",
     "weight": 717,
     "volume": 1,
-    "recoil": 90,
     "magazines": [
       [ "45", [ "m1911mag" ] ]		
     ]
@@ -240,7 +230,6 @@
     "ranged_damage": 5,
     "dispersion": 30,
     "sight_dispersion": 120,
-    "recoil": 0,
     "durability": 7,
     "clip_size": 5,
     "modes": [ [ "DEFAULT", "semi-auto", 1 ] ],
@@ -262,8 +251,7 @@
     "material": [ "steel", "plastic" ],	
     "ammo": "22",	
     "dispersion": 90,
-    "sight_dispersion": 60,	
-    "recoil": 45,
+    "sight_dispersion": 60,
     "durability": 6,
     "magazine_well": 1,
     "magazines": [ 
@@ -301,7 +289,6 @@
     "ranged_damage": -1,	
     "dispersion": 90,
     "sight_dispersion": 90,	
-    "recoil": 45,
     "durability": 6,
     "clip_size": 9
   },
@@ -320,7 +307,6 @@
     "ammo": "9mm",
     "dispersion": 140,
     "sight_dispersion": 90,
-    "recoil": 60,
     "durability": 7,
     "magazine_well": 1,
     "magazines": [
@@ -346,7 +332,6 @@
     "ranged_damage": 6,	
     "dispersion": 10,
     "sight_dispersion": 60,	
-    "recoil": -110,
     "durability": 10,
     "clip_size": 6,
     "default_mods": [ "match_trigger", "tuned_mechanism", "improve_sights" ]
@@ -367,8 +352,7 @@
     "range" : 1,
     "ranged_damage": 2,	
     "dispersion": 25,
-    "sight_dispersion": 60,	
-    "recoil": -90,
+    "sight_dispersion": 60,
     "durability": 9,
     "clip_size": 6,
     "default_mods": [ "match_trigger", "improve_sights" ]
@@ -389,8 +373,7 @@
     "range" : 1,
     "ranged_damage": 4,	
     "dispersion": 10,
-    "sight_dispersion": 60,	
-    "recoil": -90,
+    "sight_dispersion": 60,
     "durability": 10,
     "clip_size": 6,
     "default_mods": [ "match_trigger", "tuned_mechanism" ]
@@ -413,7 +396,6 @@
     "ranged_damage": 4,
     "dispersion": 120,
     "sight_dispersion": 110,
-    "recoil": 160,
     "durability": 4,
     "magazine_well": 1,
     "magazines": [
@@ -435,7 +417,6 @@
     "ammo": "9mm",	
     "dispersion": 145,
     "sight_dispersion": 90,	
-    "recoil": 110,
     "durability": 7,
     "magazine_well": 1,    
     "magazines": [
@@ -456,8 +437,7 @@
     "material": [ "steel", "wood" ],	
     "ammo": "357",	
     "dispersion": 45,
-    "sight_dispersion": 90,	
-    "recoil": 90,
+    "sight_dispersion": 90,
     "durability": 7,
     "clip_size": 6
   },  
@@ -480,7 +460,6 @@
     "ranged_damage": 2,
     "dispersion": 75,	
     "sight_dispersion": 60,
-    "recoil": 10,
     "durability": 9,
     "reload": 50,    
     "valid_mod_locations": [ [ "accessories", 1 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] 
