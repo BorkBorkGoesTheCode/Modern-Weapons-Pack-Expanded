@@ -1,0 +1,10 @@
+{
+    "type" : "MOD_INFO",
+    "mod-type" : "SUPPLEMENTAL",
+    "ident" : "modern_weapon",
+    "name" : "Modern Weapon Pack",
+    "author" : "crom",
+    "description" : "This mod adds more real world firearms to the game.",
+    "category" : "items",
+    "path" : ""
+}

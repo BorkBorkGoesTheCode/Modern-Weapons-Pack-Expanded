@@ -1,0 +1,32 @@
+[
+  { 
+    "type" : "AMMO",
+    "id" : "3030_casing",
+    "category" : "spare_parts",
+    "price" : 10000,
+    "name" : ".30-30 casing",
+    "symbol" : "=",
+    "color" : "yellow",
+    "description" : "An empty casing from a .30-30 round.",
+    "material" : "steel",
+    "volume" : 1,
+    "weight" : 6,
+    "ammo_type" : "components",
+    "count" : 200
+  },
+  { 
+    "type" : "AMMO",
+    "id" : "357_casing",
+    "category" : "spare_parts",
+    "price" : 10000,
+    "name" : ".357 Magnum casing",
+    "symbol" : "=",
+    "color" : "yellow",
+    "description" : "An empty casing from a .357 Magnum round.",
+    "material" : "steel",
+    "volume" : 1,
+    "weight" : 6,
+    "ammo_type" : "components",
+    "count" : 200
+  }  
+]
