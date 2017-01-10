@@ -7,7 +7,7 @@
   },
   {
     "type": "ammunition_type",
-    "id": "357",
+    "id": "357_mag",
     "name": ".357 Magnum",
     "default": "357_magn"
   }  
