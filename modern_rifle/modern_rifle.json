@@ -323,7 +323,7 @@
     "volume": 3,
     "price": 95000,
     "default_mods": [ "folding_stock" ],
-    "built_in_mods": [ "bayonet" ]
+    "built_in_mods": [ "inter_bayonet" ]
   },
   {
     "id": "norinco56_2",
