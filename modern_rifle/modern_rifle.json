@@ -267,7 +267,7 @@
     "type": "GUN",
     "name": "Marlin 1894C",
     "description": "A lever action hunting rifle, the .357 Magnum caliber Marlin 1894C repeater is a perfect companion piece for your .357 Magnum sidearm.",
-    "ammo": "357",
+    "ammo": "357_mag",
     "range": 4,
     "ranged_damage": 6,
     "clip_size": 9
