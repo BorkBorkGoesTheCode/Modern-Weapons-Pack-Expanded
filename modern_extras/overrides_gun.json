@@ -5,8 +5,7 @@
     "copy-from": "LAW",
     "type": "GUN",
     "name": "M72 LAW",
-    "dispersion": 0,
-    "recoil": 0
+    "dispersion": 0
   },
   {
     "id": "66mm_HEAT",
