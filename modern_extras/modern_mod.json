@@ -198,7 +198,6 @@
       "range": 1,
       "dispersion": 50,
       "sight_dispersion": 90,
-      "recoil": 45,
       "durability": 9,
       "reload": 100
     },
