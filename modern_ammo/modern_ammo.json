@@ -55,7 +55,7 @@
     "weight" : 8,
     "price": 2250,
     "material": [ "steel", "powder" ],
-    "ammo_type": "357",
+    "ammo_type": "357_mag",
     "casing": "357_casing",   
     "relative": {
       "range" : 2,
@@ -67,6 +67,7 @@
   {
     "type" : "AMMO",
     "id" : "reloaded_357_magn",
+    "copy-from": "357_magn",
     "name" : "reloaded .357 Magnum",
     "name_plural" : "reloaded .357 Magnum",
     "description" : "The high velocity and high energy .357 Magnum, with 125gr JHP in an elongated .38 Special cartridge, was developed in the 1930s.  Renown for its stopping power, the .357 is easily capable of bringing down medium to large game.  This one has been hand-reloaded.",
@@ -78,8 +79,6 @@
     "color" : "yellow",
     "count" : 20,
     "stack_size": 40,
-    "ammo_type" : "357",
-    "casing" : "357_casing",
     "damage" : 28,
     "pierce" : 3,
     "range" : 16,
