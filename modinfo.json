@@ -6,7 +6,7 @@
     "authors": [ "crom", "BorkBorkGoesTheCode" ],
     "maintainers": [ "BorkBorkGoesTheCode" ],
     "description": "This mod adds more real world firearms to the game.",
-    "category": "items"
+    "category": "items",
     "dependencies": [ "dda" ]
   }
 ]
