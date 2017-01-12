@@ -2,10 +2,10 @@
   {
     "type": "MOD_INFO",
     "ident": "modern_weapon",
-    "name": "Modern Weapon Pack",
+    "name": "Modern Weapon Pack Expanded",
     "authors": [ "crom", "BorkBorkGoesTheCode" ],
     "maintainers": [ "BorkBorkGoesTheCode" ],
-    "description": "This mod adds more real world firearms to the game.",
+    "description": "This mod adds more real world firearms to the game. It was derived from",
     "category": "items",
     "dependencies": [ "dda" ]
   }
