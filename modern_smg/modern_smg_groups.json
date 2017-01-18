@@ -1,7 +1,7 @@
 [
   {
-    "type" : "item_group",
-    "id" : "mags_smg_rare",
+    "type": "item_group",
+    "id": "mags_smg_rare",
     "items": [
       [ "9mmbetacmag", 25 ],
       [ "9mmcbjmag", 15 ],
@@ -10,8 +10,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "guns_smg_milspec",
+    "type": "item_group",
+    "id": "guns_smg_milspec",
     "items": [
       [ "coltsmg", 100 ],	  
       [ "cbj_msPack", 20 ],
