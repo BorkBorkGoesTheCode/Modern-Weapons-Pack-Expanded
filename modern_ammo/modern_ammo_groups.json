@@ -1,16 +1,16 @@
 [
   {
-    "type" : "item_group",
-    "id" : "ammo_rifle_common",
+    "type": "item_group",
+    "id": "ammo_rifle_common",
     "items": [
       [ "3030_win", 60 ],
       [ "357_magn", 60 ]
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "pawn",
-    "items":[
+    "type": "item_group",
+    "id": "pawn",
+    "items": [
       [ "3030_casing", 10 ],
       [ "357_casing", 10 ]
     ]
