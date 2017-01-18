@@ -9,10 +9,9 @@
   },
   {
     "type": "item_group",
-    "id": "pawn",
+    "id": "ammo_casings",
     "items": [
-      [ "3030_casing", 10 ],
-      [ "357_casing", 10 ]
-    ]
+      { "item": "3030_casing", "prob": 80, "count": 20 },
+      { "item": "357_casing", "prob": 80, "count": 20 }
   }
 ]
