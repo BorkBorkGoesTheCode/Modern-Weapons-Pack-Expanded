@@ -13,5 +13,6 @@
     "items": [
       { "item": "3030_casing", "prob": 80, "count": 20 },
       { "item": "357_casing", "prob": 80, "count": 20 }
+    ]
   }
 ]
