@@ -4,11 +4,6 @@
     "id": "gunmod_rare",
     "items": [
     [ "neck_strap", 10 ],
-	[ "retool_38", 20 ],
-	[ "retool_357", 20 ],
-	[ "retool_40", 20 ],
-	[ "retool_762", 20 ],
-    [ "retool_545x39", 20 ],
 	[ "six12_mod", 20 ]
     ]
   },
