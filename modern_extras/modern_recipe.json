@@ -118,8 +118,6 @@
     "components": [
       [ [ "r93t2", 1 ] ],
       [ [ "300r4mag", 1 ] ],
-      [ [ "223r5mag", 1 ] ],
-      [ [ "308r5mag", 1 ] ],
       [ [ "manual_gun", 1 ] ],
       [ [ "small_repairkit", 1 ] ],
       [ [ "battery", 300 ] ]
@@ -156,7 +154,6 @@
     "components": [
       [ [ "strike_one", 1 ] ],
       [ [ "strike9mm_mag", 1 ] ],
-      [ [ "strike40_mag", 1 ] ],
       [ [ "small_repairkit", 1 ] ],
       [ [ "battery", 300 ] ],
       [ [ "manual_gun", 1 ] ]

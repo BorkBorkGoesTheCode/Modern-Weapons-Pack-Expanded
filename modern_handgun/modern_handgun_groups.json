@@ -13,8 +13,7 @@
     "id": "mags_surplus",
     "items": [
       [ "22mag", 45 ],
-      [ "hp9mm_mag", 35 ],
-      [ "hp40mag", 25 ]
+      [ "hp9mm_mag", 35 ]
     ]
   },
   {
@@ -29,16 +28,14 @@
     "type" : "item_group",
     "id" : "mags_milspec",
     "items": [
-      [ "strike9mm_mag", 15 ],
-      [ "strike40_mag", 15 ]
+      [ "strike9mm_mag", 15 ]
     ]
   },
   {
     "type" : "item_group",
     "id" : "mags_cop",
     "items": [
-      [ "ccw9mm_mag", 15 ],
-      [ "ccw40mag", 15 ]
+      [ "ccw9mm_mag", 15 ]
     ]
   },  
   {

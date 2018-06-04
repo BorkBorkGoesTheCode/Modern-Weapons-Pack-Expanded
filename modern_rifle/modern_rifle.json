@@ -33,6 +33,7 @@
     "copy-from": "rifle_manual",
     "type": "GUN",
     "name": "R93 Tactical 2",
+    "//": "This used to use the caliber conversion code to convert into .223 and .308 variants. See https://github.com/CleverRaven/Cataclysm-DDA/pull/23078 .",
     "description": "The Blaser R93 Tactical 2 is a straight pull, bolt action sniper rifle. ",
     "weight": 5400,
     "volume": 11,
