@@ -181,6 +181,7 @@
   },  
   {
     "type" : "recipe",
+    "//": "Original deconstruction recipe gave an autofire conversion gunmod from coregame.  See https://github.com/CleverRaven/Cataclysm-DDA/pull/22534 and https://github.com/CleverRaven/Cataclysm-DDA/issues/20980 .",
     "result": "vd01Pack",
     "id_suffix": "uncraft",
     "category": "CC_NONCRAFT",
@@ -194,8 +195,7 @@
       [ [ "vd01mag", 2 ] ],
       [ [ "small_repairkit", 1 ] ],
       [ [ "battery", 300 ] ],
-      [ [ "pistol_stock", 1 ] ],
-      [ [ "autofire", 1 ] ]	  
+      [ [ "pistol_stock", 1 ] ]
     ]
   }  
 ]
