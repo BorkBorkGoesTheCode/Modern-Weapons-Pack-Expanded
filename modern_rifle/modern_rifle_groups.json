@@ -1,15 +1,6 @@
 [
   {
     "type" : "item_group",
-    "id" : "guns_rifle_milspec",
-    "//": "HOTFIX.",
-    "items": [
-      [ "hk_g36", 60 ],
-      [ "m2010", 30 ]
-    ]
-  },
-  {
-    "type" : "item_group",
     "id" : "mags_swat",
     "items": [
       [ "308steyrmag5", 15 ]
