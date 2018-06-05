@@ -65,7 +65,7 @@
     "description": "A 100 round magazine for assault rifles that utilize the .308 round or similar ammunition.",
     "weight": 910,
     "ammo_type": "308"
-  }
+  },
   {
     "id": "308steyrmag5",
     "type": "MAGAZINE",
