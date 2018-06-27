@@ -130,7 +130,7 @@
       "skill": "shotgun",
       "ammo": "shot",
       "range": 1,
-      "dispersion": 50,
+      "dispersion": 350,
       "sight_dispersion": 90,
       "durability": 9,
       "reload": 100
