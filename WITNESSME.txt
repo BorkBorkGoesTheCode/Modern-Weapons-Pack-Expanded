@@ -9,7 +9,7 @@ New to this version:
     .223 Galil 35 rd magazine
         For 5.56x45mm ammunition (.223), a curved magazine made for the Galil assault rifle.
     Sterling L2A3 magazine
-        34 round magazine for the Sterling Mk.4 submachibe gun.
+        34 round magazine for the Sterling Mk.4 submachine gun.
     
     Handguns:
                 Kahr K9
