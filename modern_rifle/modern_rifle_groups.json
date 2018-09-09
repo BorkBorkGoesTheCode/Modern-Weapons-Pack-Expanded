@@ -21,7 +21,7 @@
   }, 
   {
     "type" : "item_group",
-    "id" : "ammo_rifle_common",
+    "id" : "guns_rifle_common",
     "items": [
       [ "henry", 30 ],
       [ "marlin_1894", 30 ],
