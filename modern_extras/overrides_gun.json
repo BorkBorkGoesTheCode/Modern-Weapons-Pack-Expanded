@@ -1,5 +1,38 @@
 [
   {
+    "id": "m134",
+    "copy-from": "m134",
+    "type": "GUN",
+    "name": "M134D-H",
+	"//": "Max range 3,200+ meters.",
+	"dispersion": 130
+  },
+  {
+    "id": "m249",
+    "copy-from": "m249",
+    "type": "GUN",
+    "name": "M249",
+	"//": "effective against point target at 700 meters barrel length ~18in.",
+	"ranged_damage": 1,
+	"dispersion": 140
+  },
+  {
+    "id": "m240",
+    "copy-from": "m240",
+    "type": "GUN",
+    "name": "M240",
+	"//": "effective against area target at 1,200 meters and point target at 650 meters",
+	"dispersion": 140
+  },
+  {
+    "id": "m60",
+    "copy-from": "m60",
+    "type": "GUN",
+    "name": "M60",
+	"//": "effective against area target at 1,100 meters",
+	"dispersion": 140
+  },
+  {
     "id": "LAW",
     "//": "The first time I shot a LAW, I thought it was a dud until the busted out APC that I was aiming at did a backflip.  It has no recoil.",
     "copy-from": "LAW",
