@@ -73,7 +73,7 @@
     "dispersion": 160,
     "durability": 7,
     "reload": 400, 
-    "modes": [ [ "DEFAULT", "auto", 25 ] ],
+    "modes": [ [ "DEFAULT", "auto", 15 ] ],
     "default_mods": [ "bipod" ],
     "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "bore", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] 
     ],
@@ -142,7 +142,7 @@
     "range": 4,
     "dispersion": 55,
     "durability": 8,
-    "burst": 6,
+    "burst": 11,
     "default_mods": [ "susat_scope", "grip" ],	
     "magazine_well": 1,
     "magazines": [
@@ -218,7 +218,7 @@
     "ammo": "223",
     "dispersion": 25,
     "durability": 9,
-    "burst": 8,
+    "burst": 11,
     "barrel_length": 1,
     "default_mods": [ "folding_stock", "peep_sight" ],	
     "magazine_well": 1,
@@ -454,6 +454,7 @@
     "copy-from": "rifle_auto",
     "type": "GUN",
     "name": "Tavor MTAR-21",
+    "//": "Rate of fire based on TAR-21.",
     "description": "The Israeli, Tavor MTAR-21 bullpup assault rifle has a long-stroke, gas operated piston system like that of an AK-47.  A reliable weapon, it has replaced the M-16 by Israeli Defence Forces and is used by military and police forces around the world.",
     "weight": 2950,
     "volume": 8,
@@ -466,7 +467,7 @@
     "ammo": "223",
     "dispersion": 30,
     "durability": 9,
-    "burst": 10,
+    "burst": 13,
     "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "bore", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ]
     ],
     "magazine_well": 1,
