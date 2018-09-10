@@ -33,7 +33,7 @@
     "ranged_damage": -1,
     "dispersion": 225,
     "durability": 6,
-    "burst": 3,	
+    "burst": 13,	
     "default_mods": [ "suppressor_compact" ],
     "magazine_well": 1,	
     "magazines": [
